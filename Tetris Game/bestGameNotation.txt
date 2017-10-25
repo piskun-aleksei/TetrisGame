@@ -1,0 +1,355 @@
+New Game Difficulty : 1 (auto player)
+New Figure Appeared : №2
+Figure is down proceeded
+Spinning of a figure clockwise
+Left move of figure
+Figure is down proceeded
+Figure is down proceeded
+Spinning of a figure clockwise
+Left move of figure
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Spinning of a figure clockwise
+Left move of figure
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+New Figure Appeared : №3
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Spinning of a figure clockwise
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+New Figure Appeared : №5
+Figure is down proceeded
+Spinning of a figure clockwise
+Right move of figure
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Right move of figure
+Right move of figure
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+New Figure Appeared : №3
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Right move of figure
+Right move of figure
+Right move of figure
+Right move of figure
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+New Figure Appeared : №0
+Figure is down proceeded
+Spinning of a figure clockwise
+Left move of figure
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+New Figure Appeared : №3
+Spinning of a figure clockwise
+Left move of figure
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Left move of figure
+Left move of figure
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+New Figure Appeared : №1
+Figure is down proceeded
+Left move of figure
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+New Figure Appeared : №6
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Spinning of a figure clockwise
+Right move of figure
+Figure is down proceeded
+Spinning of a figure clockwise
+Right move of figure
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+New Figure Appeared : №3
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Right move of figure
+Right move of figure
+Right move of figure
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+New Figure Appeared : №2
+Figure is down proceeded
+Spinning of a figure clockwise
+Left move of figure
+Figure is down proceeded
+Spinning of a figure clockwise
+Left move of figure
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Figure is down proceeded
+Figure is down proceeded
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Figure is down proceeded
+New Figure Appeared : №6
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+New Figure Appeared : №0
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Right move of figure
+Right move of figure
+Right move of figure
+Right move of figure
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+New Figure Appeared : №3
+Figure is down proceeded
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Left move of figure
+Left move of figure
+Left move of figure
+Figure is down proceeded
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+New Figure Appeared : №1
+Figure is down proceeded
+Left move of figure
+Left move of figure
+Left move of figure
+Left move of figure
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+New Figure Appeared : №2
+Figure is down proceeded
+Left move of figure
+Left move of figure
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+New Figure Appeared : №2
+Figure is down proceeded
+Right move of figure
+Right move of figure
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+New Figure Appeared : №2
+Figure is down proceeded
+Right move of figure
+Right move of figure
+Right move of figure
+Right move of figure
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+New Figure Appeared : №2
+Spinning of a figure clockwise
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+New Figure Appeared : №1
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Right move of figure
+Right move of figure
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+New Figure Appeared : №2
+Figure is down proceeded
+Left move of figure
+Left move of figure
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+New Figure Appeared : №6
+Figure is down proceeded
+Spinning of a figure clockwise
+Right move of figure
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+New Figure Appeared : №0
+Figure is down proceeded
+Right move of figure
+Right move of figure
+Right move of figure
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+New Figure Appeared : №0
+Figure is down proceeded
+Left move of figure
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+Figure is down proceeded
+New Figure Appeared : №6
+Figure is down proceeded
+Spinning of a figure clockwise
+Left move of figure
+Right move of figure
+Figure is down proceeded
+Figure is down proceeded
+New Figure Appeared : №1
+Figure is down proceeded
