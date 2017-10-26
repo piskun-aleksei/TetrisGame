@@ -15,6 +15,9 @@ import javax.sound.sampled.AudioSystem;
 import javax.sound.sampled.Clip;
 import javax.swing.JLayer;
 
+import javafx.scene.media.AudioClip;
+import javafx.scene.media.Media;
+import javafx.scene.media.MediaPlayer;
 import javafx.scene.text.Font;
 import javafx.scene.text.Text;
 import javafx.application.Application;
@@ -90,6 +93,16 @@ public class GameUI {
 	 */
 
 	public GameUI(Stage newStage) throws IOException {
+		new Thread()
+		{
+			public void run() {
+				String bip = "daft.mp3";
+				Media hit = new Media(new File(bip).toURI().toString());
+				AudioClip mediaPlayer = new AudioClip(hit.getSource());
+				mediaPlayer.play();
+			}
+		}.start();
+
 		movesStage = new Stage();
 		movesStage.setHeight(300);
 		movesStage.setWidth(450);
@@ -329,8 +342,6 @@ public class GameUI {
 		engine = new CheckingEngine(semaphore);
 		engine.setDaemon(true);
 		engine.start();
-
-
 
 		// saveBuilder = new StringBuilder();
 		if (saveGame1.exists()) {
